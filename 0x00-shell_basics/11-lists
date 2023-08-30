@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -l -x -a alx-system_engineering-devops dir -l -x -a /boot
+ls -l -x -a dir -l -x -a alx-system_engineering-devops dir -l -x -a boot
